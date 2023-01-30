@@ -1,0 +1,1 @@
+# 1.-GWASrapidd.R-script-used-to-download-GWAS-catalog-data.-2.-Hapolo.R.script-is-used-to-analyze-the
